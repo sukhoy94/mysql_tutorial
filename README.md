@@ -5,7 +5,7 @@
 
 ### overview and installation
 
-- what is database
+- what is database - definition, types
 - what is mysql
 - install on windows
 - install on linux (ubuntu)
