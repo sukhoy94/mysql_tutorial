@@ -5,7 +5,9 @@
 
 ### overview and installation
 
-- what is database - definition, types
+- what is database - definition
+- relational database type
+- non-relational database type
 - what is mysql
 - install on windows
 - install on linux (ubuntu)
