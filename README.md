@@ -1,3 +1,5 @@
+https://www.pluralsight.com/blog/software-development/relational-vs-non-relational-databases
+
 # mysql_tutorial
 
 - course introduction
