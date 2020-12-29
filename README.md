@@ -21,6 +21,7 @@ https://www.pluralsight.com/blog/software-development/relational-vs-non-relation
 - basic datatypes
 - create table
 - drop table
+- update table
 
 ### select statement
 - select statement
