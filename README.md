@@ -1,4 +1,5 @@
 https://www.pluralsight.com/blog/software-development/relational-vs-non-relational-databases
+https://www.talend.com/resources/what-is-mysql/
 
 # mysql_tutorial
 
